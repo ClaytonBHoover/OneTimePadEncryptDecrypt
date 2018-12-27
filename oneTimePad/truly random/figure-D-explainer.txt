@@ -1,0 +1,1 @@
+Figure D. Computer legend John von Neumann showed that a random series of states that are unevenly weighted can be converted to an evenly weighted output by sampling the states in pairs, ignoring identical pairs, and copying the first state in each unequal pair.
